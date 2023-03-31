@@ -1,0 +1,155 @@
+@font-face {
+  font-family: Inter-Regular;
+  src: url(../assets/Fonts/Inter-Regular.ttf);
+  font-family: Poppins-Bold;
+  src: url(../assets/Fonts/Poppins-Bold.ttf);
+}
+.logo {
+  width: 200px;
+  height: 38px;
+  margin-top: 50px;
+  margin-left: 192px;
+}
+ul {
+  font-family: Inter-Regular;
+  display: flex;
+  gap: 40px;
+  width: 825px;
+  height: 65px;
+  margin-left: 500px;
+  margin-top: -30px;
+}
+.button {
+  display: flex;
+  width: 120px;
+  margin-left: 1100px;
+  margin-top: -80px;
+}
+h1 {
+  font-size: 18px;
+  margin-top: 150px;
+  padding-left: 700px;
+}
+
+h2 {
+  font-family: Poppins-Bold;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-left: 600px;
+  color: #37393f;
+}
+
+.textbox {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  height: 383px;
+}
+
+.text {
+  width: 386px;
+  height: 383px;
+  background: #f4f4f4;
+  margin-top: 100px;
+}
+
+.text h3 {
+  font-family: Poppins-Bold;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 60px;
+}
+.text p {
+  font-size: 18px;
+  text-align: center;
+  margin: 20px 42px;
+  color: #7d7d7d;
+}
+
+.text h6 {
+  font-size: 18px;
+  text-align: center;
+  margin: 20px 42px;
+  color: #6b77e5;
+  margin-top: 50px;
+}
+.text img{
+  width: 70px;
+  height: 72px;
+  margin: 0px 160px;
+}
+.poster {
+  margin-top: 160px;
+}
+.poster h6 {
+  font-size: 18px;
+  margin: -350px 600px;
+  text-align: center;
+  font-size: 18px;
+}
+.poster h4 {
+  margin: 350px 620px;
+  font-family: Poppins-Bold;
+  font-size: 30px;
+}
+.poster p {
+  width: 511px;
+  height: 52px;
+  margin: -340px 500px;
+  font-size: 18ppx;
+  text-align: center;
+  color: #37393f;
+}
+
+.poster h1 {
+  margin-top: 190px;
+  padding-left: 700px;
+  font-size: 18px;
+}
+.play{
+  margin-top: 380px;
+  padding-left: 720px;
+}
+
+.team h1 {
+  margin-top: 200px;
+  padding-left: 700px;
+  font-size: 18px;
+}
+
+.team h3 {
+  margin-top: -0px;
+  margin-left: 550px;
+  font-family: Poppins-Bold;
+  font-size: 40px;
+}
+
+.photos {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  height: 383px;
+  margin-top: 50px;
+
+}
+/* .textbox2 {
+  display: flex;
+justify-content: center;
+gap: 50px;
+   }
+   .text2{
+    background: #FFFFFF;
+    width: 340px;
+    height: 115px;
+   }
+   .text2 h1 {
+      text-align: center;
+      margin-top: 20px;
+      font-size: 25px;
+   }
+   .text2 h2 {
+      text-align: center;
+      font-size: 18px;
+      padding-top: 10px;
+      color: #7D7D7D;
+   } */
